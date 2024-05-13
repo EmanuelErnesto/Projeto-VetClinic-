@@ -1,0 +1,29 @@
+{
+  "name": "projeto-vetclinic-",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante a trilha de Node.js - AWS na Compass Uol.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "keywords": [
+    "Clínica",
+    "NodeJS",
+    "Sequelize",
+    "Pets"
+  ],
+  "author": "Emanuel Ernesto de Andrade Rego",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.0.1",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
