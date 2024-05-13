@@ -97,4 +97,4 @@ Tendo tudo isso em mente, agora você poderá desfrutar de todas as funcionalida
 
 Tem alguma funcionalidade a sugerir ou uma sugestão de como posso melhorar o código? Entre em contato comigo pelo linkedin ou abra uma PR para discutirmos melhor isso 
 
-<a href= "https://www.linkedin.com/in/emanuel-ernesto-6b5a5726b/?originalSubdomain=br">Linkedin</a>
+<a href= "https://www.linkedin.com/in/emanuel-ernesto-6b5a5726b/?originalSubdomain=br" target="_blank" >Linkedin</a>
