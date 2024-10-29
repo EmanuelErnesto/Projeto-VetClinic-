@@ -1,0 +1,5 @@
+echo 'running linter'
+
+npm run lint-fix
+
+echo 'done'
