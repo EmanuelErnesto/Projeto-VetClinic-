@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# db test file
+databaseTestTemp.db
+
+# db file
+databaseVetClinic.db
+
+# stryker test report
+reports

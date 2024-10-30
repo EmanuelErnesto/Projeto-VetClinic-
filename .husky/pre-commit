@@ -1,0 +1,15 @@
+echo "step: running all tests"
+
+echo "running end to end tests"
+
+if ! npm run test:e2e; then 
+  echo "failed to run tests end to end"
+fi 
+
+echo "running integration tests"
+
+if ! npm run test:integration; then
+  echo "failed to run integration tests"
+fi
+
+echo "done!"
