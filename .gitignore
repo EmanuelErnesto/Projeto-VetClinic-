@@ -134,3 +134,6 @@ databaseTestTemp.db
 
 # db file
 databaseVetClinic.db
+
+# stryker test report
+reports
